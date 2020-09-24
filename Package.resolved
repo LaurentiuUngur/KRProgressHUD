@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "KRActivityIndicatorView",
-        "repositoryURL": "https://github.com/krimpedance/KRActivityIndicatorView.git",
+        "repositoryURL": "https://github.com/LaurentiuUngur/KRActivityIndicatorView",
         "state": {
           "branch": null,
-          "revision": "0a0ae6bc05647f414a7bfc53ffeaf6248aad29dd",
-          "version": "3.0.5"
+          "revision": "db89dd8e45ec69d5c00d6f697a843f815c2f3c0e",
+          "version": "4.0.0"
         }
       }
     ]
