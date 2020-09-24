@@ -22,7 +22,8 @@ let package = Package(
         .testTarget(
             name: "KRProgressHUDTests",
             dependencies: ["KRProgressHUD", "KRActivityIndicatorView"],
-            path: "KRProgressHUDTests"
+            path: "KRProgressHUDTests",
+            exclude: ["Info.plist"]
         ),
     ]
 )
